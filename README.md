@@ -1,6 +1,6 @@
 ### Hi there, I'm David! 👋
 
-- 🛠️ I am currently working as a Cloud & DevOps Engineer with Deloitte Ireland. I have built environments, worked on cloud migrations, and taken part on automation projects for global companies.
+- 🛠️ I am currently working as a Cloud & DevOps Engineer with Deloitte Ireland. I have built development environments, worked on cloud migrations, and taken part in automation projects.
 
 - 🚀 I am experienced in a variety of AWS resources, IaC tools such as Terraform and CloudFormation, and containerisation tools such as Docker and Kubernetes.
 
