@@ -1,8 +1,10 @@
 ### Hi there, I'm David! 👋
 
-- 🔭 I am currently working as a Cloud & DevOps Engineer with Deloitte Ireland. I have built environments for retail clients, worked on cloud migrations for government agencies, and automation projects for global companies. I am experienced in a variety of AWS resources, IaC tools such as Terraform and CloudFormation, and containerisation tools such as Docker and Kubernetes.
+- 🛠️ I am currently working as a Cloud & DevOps Engineer with Deloitte Ireland. I have built environments, worked on cloud migrations, and taken part on automation projects for global companies.
 
-- 📫 You can find my Cloud Resume Challenge [here](https://www.davidoconnor.me), which has my contact details. Alternatively you can reach me at: 92552641+bit-of-a-git@users.noreply.github.com - easy to remember, right?
+- 🚀 I am experienced in a variety of AWS resources, IaC tools such as Terraform and CloudFormation, and containerisation tools such as Docker and Kubernetes.
+
+- 🎯 You can find my Cloud Resume Challenge [here](https://www.davidoconnor.me), which has my contact details. Alternatively you can reach me at: 92552641+bit-of-a-git@users.noreply.github.com - easy to remember, right?
 
 - ⚡ I am interested in solving puzzles, security, and learning new things about coding. Outside of tech my interests include travel, photography, music, culture, and reading.
 
