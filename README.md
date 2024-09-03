@@ -2,7 +2,9 @@
 
 - 🛠️ I am currently working as a Cloud & DevOps Engineer with Deloitte Ireland. I have built development environments, worked on cloud migrations, and taken part in automation projects.
 
-- 🚀 I am experienced in a variety of AWS resources, IaC tools such as Terraform and CloudFormation, and containerisation tools such as Docker and Kubernetes. I am additionally experienced with programming and scripting languages such as Python, JavaScript, Java, and Bash.
+- 🚀 I am experienced in a variety of AWS resources, IaC tools such as Terraform and CloudFormation, and containerisation tools such as Docker and Kubernetes.
+
+- 🌠 I am additionally experienced with programming and scripting languages such as Python, JavaScript, Java, and Bash. I use Arch btw (well, Debian at least!)
 
 - 🎯 You can find my Cloud Resume Challenge [here](https://www.davidoconnor.me), which has my contact details. Alternatively you can reach me at: 92552641+bit-of-a-git@users.noreply.github.com - easy to remember, right?
 
