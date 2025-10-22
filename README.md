@@ -10,7 +10,7 @@
 I am currently studying for a HDip (Higher Diploma) in Computing at SETU Waterford.
 
 ### 🎯 **Contact Information:**
-You can find my Cloud Resume Challenge [here](https://www.davidoconnor.me), which has my contact details. Alternatively, you can reach me via [this email address](mailto:92552641+bit-of-a-git@users.noreply.github.com).
+You can find my Cloud Resume Challenge site [here](https://www.davidoconnor.me), which has my contact details. Alternatively, you can reach me via [this email address](mailto:92552641+bit-of-a-git@users.noreply.github.com).
 
 ### ⚡ **Interests:**
 - **Tech:** Solving puzzles, security, learning new things about coding
