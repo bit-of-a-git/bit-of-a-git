@@ -17,4 +17,4 @@ You can find my Cloud Resume Challenge site [here](https://www.davidoconnor.me),
 - **Tech:** Troubleshooting, solving puzzles, learning new things
 - **Personal:** Reading, travel, music, culture, photography
 
-[![SadServers Level](https://img.shields.io/badge/SadServers-Master-FF6D00?style=flat-square&labelColor=FFC400&logo=kubernetes&logoColor=1A237E&logoSize=auto)](https://sadservers.com/u/David+O+Connor)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Master-FF6D00?style=flat-square&labelColor=FFC400&logo=kubernetes&logoColor=1A237E&logoSize=auto)](https://sadservers.com/u/bit-of-a-git)
